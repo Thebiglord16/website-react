@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/website-react/static/css/main.37bad250.css",
+    "main.js": "/website-react/static/js/main.db3d58fe.js",
+    "static/media/leo.png": "/website-react/static/media/leo.048bfa0288eab1a3ea36.png",
+    "index.html": "/website-react/index.html",
+    "main.37bad250.css.map": "/website-react/static/css/main.37bad250.css.map",
+    "main.db3d58fe.js.map": "/website-react/static/js/main.db3d58fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37bad250.css",
+    "static/js/main.db3d58fe.js"
+  ]
+}
